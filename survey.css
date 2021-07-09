@@ -1,0 +1,27 @@
+#mark1{
+	height: 40px;
+	width: 40%;
+	background-color: lightgreen;
+	color: black;
+	padding: 20px 20px;
+	margin-top: 10px;
+	margin-right: 10px
+	font-family: verdana;
+	border-radius: 10px
+	
+	}
+#mark2{
+	height: 50px;
+	width: 25%;
+	background-color: lightgreen;
+	padding: 20px 20px 0px 20px;
+	color: black;
+	font-family: verdana;
+	}
+.bg {
+    background-image: url(https://www.shutterstock.com/image-illustration/business-technology-internet-network-concept-vpn-1889622697);
+    height: 100%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
